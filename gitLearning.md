@@ -1,5 +1,15 @@
 List of GIT Commands
 
+
+    git status
+    git init
+    git branch
+    git branch -m main 
+    git add gitLearning.md
+    git commit -m "added gitLearning.md file"
+    git remote add origin https://github.com/apyasi-pcg/GitLearningRepo.git
+    git push
+
     git config --global user.name
     git config --global user.email
 
